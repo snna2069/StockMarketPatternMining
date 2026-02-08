@@ -28,7 +28,6 @@ share/python-wheels/
 
 # Jupyter and reports
 .ipynb_checkpoints/
-reports/
 artifacts/
 
 # User config and runtime
